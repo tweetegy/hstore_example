@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: tweetegy_hstore_example_development
+  username: darren
+  password:
