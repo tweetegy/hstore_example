@@ -2,7 +2,7 @@
 
 Example Rails app to demonstrate how developers might make use of Postgres Hstore in Rails
 
-For more details about the story check the following blog post on [tweetegy.com](http://www.tweetegy.com/ ...)
+For more details about the story check the following blog post on [tweetegy.com](http://www.tweetegy.com/2014/06/using-postgres-hstore-rails-active-record/)
 
 ## Installation / Try this out at home
 
